@@ -1,2 +1,3 @@
 # nodejs_rocks
-Having fun with NodeJS
+
+Simple example of a Chat with NodeJS
